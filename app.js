@@ -44,7 +44,7 @@
         }
       };
 
-      var accordion = new Accordion($('#accordion'), false);
+      let accordion = new Accordion($('#accordion'), false);
     });
   }])
 })();
